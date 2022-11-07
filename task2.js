@@ -6,7 +6,7 @@ const makeColor = () => {
         }
         else {
             elements[e].style.color = "green";
-        }
+        };
     };
 };
 
